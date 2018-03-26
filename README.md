@@ -6,10 +6,10 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-  2.3.0
+  __2.3.0__
 
 * Gemset name
-  action-cable-example
+  **action-cable-example**
 
 * System dependencies
 

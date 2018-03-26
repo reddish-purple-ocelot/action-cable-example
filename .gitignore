@@ -26,3 +26,4 @@
 /config/master.key
 .ruby-gemset
 .ruby-version
+Gemfile.lock
