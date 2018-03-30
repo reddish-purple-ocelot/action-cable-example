@@ -27,3 +27,5 @@
 .ruby-gemset
 .ruby-version
 Gemfile.lock
+config/secrets.yml
+yarn.lock
